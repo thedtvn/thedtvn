@@ -1,4 +1,5 @@
 <img src="http://readme-typing-svg.herokuapp.com?font=ubuntu&color=%2336BCF7&vCenter=true&multiline=true&height=39&lines=Hi+am+TheDT">
+<img src="https://github-profile-trophy.vercel.app/?username=duongtuan303030">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duongtuan30306&theme=radical"></a>
 <a href="https://discord.com/users/542602170080428063"><img src="https://lanyard-profile-readme-nyria.vercel.app/api/542602170080428063"></a>
 <br><a href="https://top.gg/bot/931353470353674291"><img src="https://top.gg/api/widget/931353470353674291.svg"></a>
