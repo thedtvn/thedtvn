@@ -4,4 +4,4 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=thedtvn&theme=radical&hide_border=fals"></a>
 <img src="https://github-readme-stats.vercel.app/api?username=thedtvn&show_icons=true&theme=radical"></a>
 <img src="https://komarev.com/ghpvc/?username=thedtvn&style=flat-squar&color=brightgreen"></a>
-
+<img src="https://activity-graph.herokuapp.com/graph?username=thedtvn&theme=react-dark"></a>
