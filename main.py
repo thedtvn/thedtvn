@@ -2,7 +2,6 @@ import signal
 import ssl
 import socket
 from multiprocessing import Process, freeze_support
-import requests
 import time
 import os
 import json
