@@ -5,9 +5,3 @@
 <img src="https://github-readme-stats.vercel.app/api?username=thedtvn&show_icons=true&theme=radical"></a>
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=thedtvn&bg_color=000000&color=9e4c98&line=9e4c98&point=333333&area=true&hide_border=true"><a/>
 <img src="https://komarev.com/ghpvc/?username=thedtvn&style=flat-squar&color=brightgreen"></a>
-<script>
-function myFunction() {
-  alert("Hello! I am an alert box!");
-}
-</script>
-
