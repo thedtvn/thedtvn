@@ -132,6 +132,8 @@ Set avatar/server radius to 50% to make them circular.
     width: 100%;
 }
 
+/* Fix Discord+ ui on create Threads */
+
 #app-mount .submitContainer-1DHMA0 {
     background: transparent;
 }
