@@ -1,8 +1,6 @@
 <img src="http://readme-typing-svg.herokuapp.com?font=ubuntu&color=%2336BCF7&vCenter=true&multiline=true&height=39&lines=Hi+am+TheDT">
 
-Full Name: Nguyễn Dương Tuấn
-
-Now Learing at "Trường Trung Học Phổ Thông Phương Nam"
+<a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Now+Learing+at+Tr%C6%B0%E1%BB%9Dng+Trung+H%E1%BB%8Dc+Ph%E1%BB%95+Th%C3%B4ng+Ph%C6%B0%C6%A1ng+Nam" alt="Typing SVG" /></a>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thedtvn&theme=radical"></a>
 
