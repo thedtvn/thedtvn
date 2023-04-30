@@ -1,7 +1,5 @@
 <img src="http://readme-typing-svg.herokuapp.com?font=ubuntu&color=%2336BCF7&vCenter=true&multiline=true&height=39&lines=Hi+am+TheDT">
 
-Now Learing at Trường Trung Học Phổ Thông Phương Nam
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thedtvn&theme=radical"></a>
 
 <a href="https://discord.com/users/542602170080428063"><img src="https://lanyard.cnrad.dev/api/542602170080428063"></a>
