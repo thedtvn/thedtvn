@@ -1,4 +1,4 @@
-<img src="http://readme-typing-svg.herokuapp.com?font=ubuntu&color=%2336BCF7&vCenter=true&multiline=true&height=39&lines=Hi+am+TheDT">
+<img src="http://readme-typing-svg.herokuapp.com?font=ubuntu&color=%2336BCF7&vCenter=true&multiline=true&height=39&lines=Hi+i+am+TheDT">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thedtvn&theme=radical"></a>
 
