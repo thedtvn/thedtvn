@@ -11,4 +11,4 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=thedtvn&bg_color=141321&color=ffffff&line=d83b7d&point=8a757d&area=true&hide_border=false"><a/>
 
 
-<img src="https://komarev.com/ghpvc/?username=thedtvn&style=flat-squar&color=brightgreen"></a>
+<img src="./profile-3d-contrib/profile-night-rainbow.svg"></a>
