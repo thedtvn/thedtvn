@@ -1,7 +1,7 @@
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=700&size=30&pause=500&random=false&width=250&lines=Hi+%F0%9F%91%8B%2C+I'm+The+DT" alt="Typing SVG" /></p>
 <h3 align="center">I am a student in Vietnam also DevOps</h3>
 
-- 🔭 I’m currently working on [Fantasy Bot](https://github.com/fantasybot-red/)
+- 🔭 I’m currently working at [Fantasy Team](https://github.com/fantasybot-red/)
 
 - 🌱 I’m currently learning **Rust**
 
