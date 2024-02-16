@@ -34,7 +34,3 @@
 <img src="./profile-3d-contrib/profile-night-green.svg">
 </p>
 </details>
-
-
-
-<img src="https://komarev.com/ghpvc/?username=thedtvn&label=Profile%20views&color=0e75b6&style=flat" alt="thedtvn" />
