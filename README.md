@@ -16,7 +16,7 @@
 <p align="center"><a href="https://discord.com/users/542602170080428063"><img src="https://lanyard.cnrad.dev/api/542602170080428063"></a></p>
 
 <details align="center">
-    <summary align="center"><h3 align="center">Programming Experience</h3></summary>
+    <summary align="center"><h3 align="center">Programming Experience 🪄</h3></summary>
     <h4 align="left">Rust</h5>
     <p align="left">Make web or some type of HTTP proxy algorithm using axum or hyper.</p>
     <h4 align="left">Python</h5>
@@ -25,6 +25,7 @@
     <p align="left">Helped develop code to display ASCII characters through a Virtual instance of the browser through a console or alert.</p>
     <h4 align="left">Java</h5>
     <p align="left">Helped develop code algorithm to display "Hello world" on Terminal</p>
+    <h6>* Just kidding i can do more that than</h6>
 </details>
 
 <details align="center">
