@@ -12,8 +12,8 @@
     <img src="https://skillicons.dev/icons?i=cloudflare,bootstrap,bash,astro,actix,css,docker,express,flask,github,githubactions,gradle,html,java,js,sentry,mongodb,nodejs,postman,py,raspberrypi,redis,regex,rust,spring,vscode&perline=13" />
 </p>
 
-<h3 align="center">Sub Info:</h3>
-<p align="center"><a href="https://discord.com/users/542602170080428063"><img src="https://lanyard.cnrad.dev/api/542602170080428063"></a><a href="https://app.daily.dev/thedtvn"><img src="https://api.daily.dev/devcards/v2/FR5iYdbb5jBBXGZK6qrdY.png?type=wide&r=x69&r=obz" width="410" alt="Nguyễn Dương Tuấn's Dev Card"/></a></p>
+<h3 align="center">Discord Status:</h3>
+<p align="center"><a href="https://discord.com/users/542602170080428063"><img src="https://lanyard.cnrad.dev/api/542602170080428063"></a></p>
 
 <details align="center">
     <summary align="center"><h3 align="center">Programming Experience 🪄</h3></summary>
