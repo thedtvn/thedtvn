@@ -1,8 +1,6 @@
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=700&size=30&pause=500&random=false&width=250&lines=Hi+%F0%9F%91%8B%2C+I'm+The+DT" alt="Typing SVG" /></p>
 <h3 align="center">I am a student in Vietnam</h3>
 
-- 🔭 I’m currently working at [Fantasy Team](https://github.com/fantasybot-red/)
-
 - 🌱 I’m currently learning **Rust**
 
 - 📫 How to reach me **duongtuan30306@gmail** or [**https://thedt.is-a.dev/**](https://thedt.is-a.dev/).
@@ -18,14 +16,14 @@
 <details align="center">
     <summary align="center"><h3 align="center">Programming Experience 🪄</h3></summary>
     <h4 align="left">Rust</h5>
-    <p align="left">Make web or some type of HTTP proxy algorithm using axum or hyper.</p>
+    <p align="left">Make web or some HTTP proxy algorithm using axum or hyper.</p>
     <h4 align="left">Python</h5>
     <p align="left">Helped develop code algorithm extract values from HTML using RegEx.</p>
     <h4 align="left">Javascript</h5>
     <p align="left">Helped develop code to display ASCII characters through a Virtual instance of the browser through a console or alert.</p>
     <h4 align="left">Java</h5>
     <p align="left">Helped develop code algorithm to display "Hello world" on Terminal</p>
-    <h6>* Just kidding i can do more that than</h6>
+    <h6>* Just kidding I can do more than than</h6>
 </details>
 
 <details align="center">
