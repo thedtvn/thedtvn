@@ -1,4 +1,4 @@
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=700&size=30&pause=500&random=false&width=250&lines=Hi+%F0%9F%91%8B%2CI'm+The+DT;AKA%3A+Nguy%E1%BB%85n+D%C6%B0%C6%A1ng+Tu%E1%BA%A5n" alt="Typing SVG" /></p>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&pause=500&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2CI'm+The+DT;AKA%3A+Nguy%E1%BB%85n+D%C6%B0%C6%A1ng+Tu%E1%BA%A5n" alt="Typing SVG" /></p>
 <h3 align="center">I am a student in Vietnam</h3>
 
 - 🌱 I’m currently learning **Rust**
