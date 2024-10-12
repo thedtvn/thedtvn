@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Rust**
 
-- 📫 How to reach me **duongtuan30306@gmail** or [**https://thedt.is-a.dev/**](https://thedt.is-a.dev/).
+- 📫 How to reach me **duongtuan30306@gmail.com** or [**https://thedt.is-a.dev/**](https://thedt.is-a.dev/).
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
