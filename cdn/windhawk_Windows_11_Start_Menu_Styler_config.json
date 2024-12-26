@@ -28,6 +28,13 @@
   "controlStyles[8].styles[0]": "Margin=97,0,0,0",
   "controlStyles[9].target": "Windows.UI.Xaml.Controls.Grid#TopLevelSuggestionsContainer",
   "controlStyles[9].styles[0]": "Height=302",
+  "controlStyles[10].target": "StartDocked.NavigationPaneView#NavigationPane",
+  "controlStyles[10].styles[0]": "FlowDirection=0",
+  "controlStyles[10].styles[1]": "Margin=30,0,30,0",
+  "controlStyles[11].target": "StartDocked.PowerOptionsView#PowerButton",
+  "controlStyles[11].styles[0]": "FlowDirection=1",
+  "controlStyles[12].target": "Windows.UI.Xaml.Controls.ItemsStackPanel > Windows.UI.Xaml.Controls.ListViewItem",
+  "controlStyles[12].styles[0]": "FlowDirection=0",
   "controlStyles[13].target": "StartDocked.SearchBoxToggleButton#StartMenuSearchBox",
   "controlStyles[13].styles[0]": "Margin=23,1,23,14",
   "controlStyles[14].target": "Windows.UI.Xaml.Controls.TextBlock#NoSuggestionsWithoutSettingsLink",
@@ -96,7 +103,9 @@
   "controlStyles[40].target": "Windows.UI.Xaml.Controls.Grid#TopLevelSuggestionsContainer",
   "controlStyles[40].styles[0]": "Height=0",
   "controlStyles[41].target": "Windows.UI.Xaml.Controls.Grid#ShowMoreSuggestions",
-  "controlStyles[41].styles[0]": "RenderTransform:=<TranslateTransform Y=\"-572\" X=\"-0\" />",
+  "controlStyles[41].styles[0]": "RenderTransform:=<TranslateTransform Y=\"-572\" X=\"-10\" />",
   "controlStyles[42].target": "StartMenu.PinnedList",
-  "controlStyles[42].styles[0]": "Height=504"
+  "controlStyles[42].styles[0]": "Height=504",
+  "controlStyles[43].target": "Windows.UI.Xaml.Controls.Grid#ShowMoreSuggestions > Windows.UI.Xaml.Controls.Button > Windows.UI.Xaml.Controls.ContentPresenter > Windows.UI.Xaml.Controls.StackPanel > Windows.UI.Xaml.Controls.TextBlock",
+  "controlStyles[43].styles[0]": "Margin=1,0,0,0"
 }
