@@ -32,7 +32,7 @@
   "controlStyles[10].styles[0]": "FlowDirection=0",
   "controlStyles[10].styles[1]": "Margin=30,0,30,0",
   "controlStyles[11].target": "StartDocked.PowerOptionsView#PowerButton",
-  "controlStyles[11].styles[0]": "FlowDirection=1",
+  "controlStyles[11].styles[0]": "FlowDirection=0",
   "controlStyles[12].target": "Windows.UI.Xaml.Controls.ItemsStackPanel > Windows.UI.Xaml.Controls.ListViewItem",
   "controlStyles[12].styles[0]": "FlowDirection=0",
   "controlStyles[13].target": "StartDocked.SearchBoxToggleButton#StartMenuSearchBox",
