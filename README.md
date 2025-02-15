@@ -35,9 +35,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=thedtvn&show_icons=true&theme=radical"><br>
 </p>
 <p align="left"> 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=thedtvn&theme=radical&hide_border=fals"><br>
-</p>
-<p align="left"> 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=thedtvn&bg_color=141321&color=ffffff&line=d83b7d&point=8a757d&area=true&hide_border=false"><br>
 </p>
 <p align="left"> 
