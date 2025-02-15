@@ -1,7 +1,7 @@
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&pause=500&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2CI'm+The+DT;AKA%3A+Nguy%E1%BB%85n+D%C6%B0%C6%A1ng+Tu%E1%BA%A5n" alt="Typing SVG" /></p>
 <h3 align="center">I am a student in Vietnam</h3>
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **C++**
 
 - 📫 How to reach me: by **email** in description or [**thedt.is-a.dev**](https://thedt.is-a.dev/links/).
 
