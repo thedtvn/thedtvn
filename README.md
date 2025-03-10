@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **C++**
 
-- 📫 How to reach me: by **email** in description or [**thedt.is-a.dev**](https://thedt.is-a.dev/links/).
+- 📫 How to reach me: by **email** in description or [**thedt.id.vn**](https://thedt.id.vn/links/).
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
