@@ -38,13 +38,13 @@
           "type": "python",
           "foreground": "#100e23",
           "background": "#573f9f",
-          "template": " ({{ .Venv }})"
+          "template": " ({{ .Venv }}) "
         },
         {
           "style": "plain",
           "background": "#303030",
           "foreground": "#a8a8a8",
-          "template": " {{ .FormattedMs }}",
+          "template": " {{ .FormattedMs }} ",
           "type": "executiontime"
         },
         {
