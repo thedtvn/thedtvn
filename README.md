@@ -9,7 +9,7 @@
 </p>
 
 <h3 align="center">Discord Status:</h3>
-<p align="center"><a href="https://discord.com/users/542602170080428063"><img src="https://lanyard.cnrad.dev/api/542602170080428063"></a></p>
+<p align="center"><a href="https://discord.com/users/542602170080428063"><img src="https://discord.c99.nl/widget/theme-3/542602170080428063.png"></a></p>
 
 <details align="center">
     <summary align="center"><h3 align="center">Programming Experience 🪄</h3></summary>
