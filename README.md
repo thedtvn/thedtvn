@@ -28,8 +28,8 @@
 
 <h3 align="center">Github Stats ⚡</h3>
 <p align="center"> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thedtvn&theme=radical">
-    <img src="https://github-readme-stats.vercel.app/api?username=thedtvn&show_icons=true&theme=radical"><br>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thedtvn&theme=radical">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=thedtvn&theme=radical"><br>
 </p>
 <p align="center"> 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=thedtvn&bg_color=141321&color=ffffff&line=d83b7d&point=8a757d&area=true&hide_border=false"><br>
