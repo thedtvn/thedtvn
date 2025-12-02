@@ -12,7 +12,7 @@
     <img src="https://skillicons.dev/icons?i=sentry,vite,gitlab,tauri,java,rust,express,powershell,workers,css,cloudflare,wasm,mongodb,docker,postman,prisma,fastapi,jenkins,githubactions,nodejs,discord,redis,md,html,discordjs,nextjs,linkedin,cpp,regex,vscode,pycharm,bootstrap,raspberrypi,actix,flask,github,js,grafana,bash,py,pytorch,gradle,webstorm,astro,git,spring" />
 </p>
 
-<h3 align="center">Discord Status:</h3>
+<h3 align="center">Discord Status 👀</h3>
 <p align="center"><a href="https://discord.com/users/542602170080428063"><img src="https://discord.c99.nl/widget/theme-3/542602170080428063.png"></a></p>
 
 
