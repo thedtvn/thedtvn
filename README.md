@@ -17,14 +17,14 @@
 
 
 <h3 align="center">Programming Experience 🪄</h3>
-<h4 align="center">Rust</h5>
-<p align="center">Able to make desktop app using tauri, code webserver or wasm for web that need native logic and performance like image processing.</p>
-<h4 align="center">Python</h5>
-<p align="center">Coding ai warper and other tool like api API wrapper etc.</p> 
-<h4 align="center">Javascript / Typescript</h4>
-<p align="center">Coding web app and other task involves web or with some <b>library</b> that only have in js/ts or berter than other languages</p>
-<h4 align="center">Java</h5>
-<p align="center">Know how to code and able to code some minecraft plugins</p>
+
+| Language               | Experience                                                                                                      |
+|------------------------|------------------------------------------------------------------------------------------------------------------|
+| **Rust**               | Able to make desktop apps using Tauri, code web servers, or WASM for web needing native logic and performance (e.g., image processing). |
+| **Python**             | Coding AI wrappers and other tools like API wrappers.                                                            |
+| **JavaScript / TypeScript** | Coding web apps and tasks involving the web or libraries that exist only in JS/TS or work better there.          |
+| **Java**               | Know how to code and able to create some Minecraft plugins.                                                      |
+
 
 <h3 align="center">Github Stats ⚡</h3>
 <p align="center"> 
