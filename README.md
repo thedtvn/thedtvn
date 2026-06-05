@@ -1,5 +1,5 @@
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&pause=500&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2CI'm+The+DT" alt="Typing SVG" /></p>
-<h3 align="center">A normal human from vietnam</h3>
+<h3 align="center">A normal student from vietnam</h3>
 <p align="center">
    📫 How to reach me: by <b>email</b> in description or <a href="https://thedt.id.vn/links/">
    <b>click here</b>
