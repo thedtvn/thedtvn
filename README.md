@@ -35,3 +35,6 @@
 <p align="center"> 
    <img src="./profile-3d-contrib/profile-night-green.svg">
 </p>
+<p align="center"> 
+   <!--START_SECTION:activity-->
+</p>
