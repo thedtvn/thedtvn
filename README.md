@@ -37,4 +37,10 @@
 </p>
 <p align="center"> 
    <!--START_SECTION:activity-->
+1. 🗣 Commented on [#52](https://github.com/thedtvn/MBBank/pull/52#issuecomment-4775234350) in [thedtvn/MBBank](https://github.com/thedtvn/MBBank)
+2. 🗣 Commented on [#10267](https://github.com/Rapptz/discord.py/issues/10267#issuecomment-4704002464) in [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
+3. 🗣 Commented on [#10267](https://github.com/Rapptz/discord.py/issues/10267#issuecomment-4702407966) in [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
+4. 🚀 Published release [v0.3.2](https://github.com/thedtvn/MBBank/releases/tag/v0.3.2) in [thedtvn/MBBank](https://github.com/thedtvn/MBBank)
+5. 🎉 Merged PR [#50](https://github.com/thedtvn/MBBank/pull/50) in [thedtvn/MBBank](https://github.com/thedtvn/MBBank)
+<!--END_SECTION:activity-->
 </p>
