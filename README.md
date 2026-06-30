@@ -20,7 +20,7 @@
 | **Python**             | Coding AI wrappers and other tools like API wrappers.                                                            |
 | **JavaScript / TypeScript** | Coding web apps and tasks involving the web or libraries that exist only in JS/TS or work better there.          |
 | **Java**               | Know how to code and able to create some Minecraft plugins.                                                      |
-
+| **VibeCoding**         | Able to prompt Agent to make anything i like.                                                                    |
 <h3 align="center">Stats ⚡</h3>
 <p align="center"> 
    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thedtvn&theme=radical">
