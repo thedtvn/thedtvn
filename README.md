@@ -23,8 +23,15 @@
 | **VibeCoding**         | Able to prompt Agent to make anything i like.                                                                    |
 <h3 align="center">Stats ⚡</h3>
 <p align="center"> 
-   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thedtvn&theme=radical">
-   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=thedtvn&theme=radical"><br>
+   <img src="./profile-summary-card-output/radical/0-profile-details.svg">
+</p>
+<p align="center"> 
+   <img src="./profile-summary-card-output/radical/1-repos-per-language.svg">
+   <img src="./profile-summary-card-output/radical/2-most-commit-language.svg"><br>
+</p>
+<p align="center"> 
+   <img src="./profile-summary-card-output/radical/3-stats.svg">
+   <img src="./profile-summary-card-output/radical/4-productive-time.svg"><br>
 </p>
 <p align="center">
     <h4 align="center">WakaApi Activity</h4>
